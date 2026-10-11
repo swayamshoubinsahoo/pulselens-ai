@@ -33,4 +33,4 @@ streamlit run app.py
 The application will open at http://localhost:8501.
 
 ## Clinical Disclaimer
-PulseLens AI is designed strictly as an automated triage co-pilot and clinical pre-screening tool. It does not replace definitive medical diagnosis by a licensed physician.
+PulseLens is designed strictly as an automated triage co-pilot and clinical pre-screening tool. It does not replace definitive medical diagnosis by a licensed physician.
